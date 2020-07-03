@@ -4,11 +4,11 @@
 
 ![文字动画](https://wx1.sinaimg.cn/mw690/4d227521ly1fzda7zr393g204607kao9.gif)  
 
-[在线预览：Demo](https://nostarsnow.github.io/typeMonkey.js/dist/) 
+[在线预览：Demo](https://tuannvbg.github.io/typeMonkey.js/dist/) 
 
-[图文配乐版 - 通过mp3音乐文件和lrc歌词文件](https://nostarsnow.github.io/typeMonkey.js/dist/music/) 
+[图文配乐版 - 通过mp3音乐文件和lrc歌词文件](https://tuannvbg.github.io/typeMonkey.js/dist/music/) 
 
-[歌曲配歌词配动画版 - 情人节给女朋友的礼物](https://nostarsnow.github.io/typeMonkey.js/dist/loving/) 
+[歌曲配歌词配动画版 - 情人节给女朋友的礼物](https://tuannvbg.github.io/typeMonkey.js/dist/loving/) 
 
 
 [介绍](https://nostarsnow.github.io/2019/01/20/typemonkey/) 
