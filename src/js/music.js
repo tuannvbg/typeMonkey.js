@@ -4,8 +4,8 @@ var $demo = document.getElementById('demo'),
   $cover = document.getElementById('cover'),
   requestAnimationFrame = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
 var music = {
-  src: '../img/music/csb.mp3',
-  lrcSrc: '../img/music/csb.lrc',
+  src: '../img/music/Doan.Hieu-Tinh.Sau.Thien.Thu.Muon.Loi.mp3',
+  lrcSrc: '../img/music/Doan.Hieu-Tinh.Sau.Thien.Thu.Muon.Loi.lrc',
   init(lrc) {
     this.lrc = lrc;
     this.$pre = tm.h('div', {
